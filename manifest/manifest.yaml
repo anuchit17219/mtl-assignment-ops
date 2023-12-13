@@ -34,7 +34,7 @@ spec:
     spec:
       containers:
         - name: mtl-app
-          image: "kowoatz/mtl-assignment-2:latest"
+          image: "kowoatz/mtl-assignment-3:latest"
           imagePullPolicy: IfNotPresent
           ports:
             - containerPort: 8080
